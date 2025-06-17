@@ -209,7 +209,9 @@ export default function Dashboard() {
         <div className="mb-2 flex items-center justify-center">
           <Logo className="h-8" />
         </div>
-        <div>© 2025 SensAShee – Sentiment Analysis Dashboard</div>
+        <div><br/><br />
+          © 2025 SensAShee – Sentiment Analysis Dashboard
+        </div>
       </footer>
     </div>
   )
